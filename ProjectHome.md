@@ -1,0 +1,1 @@
+libmv has become an official Blender project, and is now hosted on [developer.blender.org](https://developer.blender.org/tag/libmv/). This Google Code page will disappear with the shutdown of Google Code.
